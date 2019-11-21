@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="com.test.jacoco.test.HelloWorldTest" time="0.022" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="com.test.jacoco.test.HelloWorldTest" time="0.03" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib"/>
@@ -67,12 +67,12 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testminiCalculator" time="0.015"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testminiCalculator" time="0.021"/>
   <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testisTriangle" time="0"/>
   <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testbug" time="0"/>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod1" time="0"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod1" time="0.003"/>
   <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod2" time="0"/>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod3" time="0.004"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod3" time="0.006"/>
   <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod4" time="0"/>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testisBirthday" time="0.003"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testisBirthday" time="0"/>
 </testsuite>

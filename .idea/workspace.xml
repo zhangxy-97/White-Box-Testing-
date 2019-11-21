@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8ccc7de-45aa-4aa5-becc-a1bdbacdef18" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/jacoco/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/jacoco/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/jacoco/test/HelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/jacoco/test/HelloWorldTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testJacoco.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testJacoco.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1494729803774</updated>
       <workItem from="1574153545939" duration="44000" />
-      <workItem from="1574153641664" duration="22617000" />
+      <workItem from="1574153641664" duration="22856000" />
     </task>
     <servers />
   </component>
