@@ -47,6 +47,16 @@ public class HelloWorldTest {
         int a = hw.Method4(0,0,0,0,0);//a = 0,return
         int b = hw.Method4(5,5,0,0,0);//a = b = 5
         int c = hw.Method4(4,4,0,0,0);//a = b != 5
+        try{
+            int d = hw.Method4(1,2,3,4,0.1f);//a != b, c != d  此时x = 0，程序抛出异常
+        }catch (ArithmeticException e){
+            System.out.println("除数为0，抛出异常");
+        }
+        try{
+            int e = hw.Method4(1,2,3,3,0.1f);//a != b, c = d, a != 5   此时x = 0，程序抛出异常
+        }catch (ArithmeticException e){
+            System.out.println("除数为0，抛出异常");
+        }
 //        int d = hw.Method4(1,2,3,4,0.1f);//a != b, c != d  此时x = 0，程序抛出异常
 //        int e = hw.Method4(1,2,3,3,0.1f);//a != b, c = d, a != 5   此时x = 0，程序抛出异常
         int f = hw.Method4(5,2,3,3,0);//a != b, c = d, a = 5

@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="c8ccc7de-45aa-4aa5-becc-a1bdbacdef18" name="Default" comment="commit 2nd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/MF1933121_homework.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/MF1933121_html_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/jacoco/test/HelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/jacoco/test/HelloWorldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.test.jacoco.test.HelloWorldTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.test.jacoco.test.HelloWorldTest.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../努力努力再努力/南大/code/软件方法学作业/Java_Swift工程文件/Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -146,6 +153,7 @@
       <updated>1494729803774</updated>
       <workItem from="1574153545939" duration="44000" />
       <workItem from="1574153641664" duration="23557000" />
+      <workItem from="1574648101403" duration="427000" />
     </task>
     <task id="LOCAL-00001" summary="commit 2nd">
       <created>1574313955287</created>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="com.test.jacoco.test.HelloWorldTest" time="0.03" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="com.test.jacoco.test.HelloWorldTest" time="0.016" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib"/>
     <property name="java.vm.version" value="25.144-b01"/>
     <property name="gopherProxySet" value="false"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/WhiteBox/White-Box-Testing-"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/white/White-Box-Testing-"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/mac/Desktop/WhiteBox/White-Box-Testing-"/>
+    <property name="user.dir" value="/Users/mac/Desktop/white/White-Box-Testing-"/>
     <property name="java.runtime.version" value="1.8.0_144-b01"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/endorsed"/>
@@ -67,12 +67,12 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testminiCalculator" time="0.021"/>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testisTriangle" time="0"/>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testbug" time="0"/>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod1" time="0.003"/>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod2" time="0"/>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod3" time="0.006"/>
-  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod4" time="0"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testminiCalculator" time="0.007"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testisTriangle" time="0.001"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testbug" time="0.001"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod1" time="0"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod2" time="0.001"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod3" time="0.004"/>
+  <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testMethod4" time="0.002"/>
   <testcase classname="com.test.jacoco.test.HelloWorldTest" name="testisBirthday" time="0"/>
 </testsuite>
